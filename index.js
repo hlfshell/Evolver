@@ -1,4 +1,4 @@
 
 module.exports = function(){
-  return require('./lib/gp')
+  return require('./lib/pinnacle')
 }

@@ -1,0 +1,17 @@
+{
+  "name": "node-gp",
+  "version": "0.0.0",
+  "description": "Genetic algorithm library for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "genetic",
+    "algorithm",
+    "ai",
+    "gp"
+  ],
+  "author": "Keith Chester <kchester@gmail.com>",
+  "license": "BSD-2-Clause"
+}

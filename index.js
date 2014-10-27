@@ -1,4 +1,2 @@
 
-module.exports = function(){
-  return require('./lib/pinnacle')
-}
+module.exports = require('./lib/pinnacle')
